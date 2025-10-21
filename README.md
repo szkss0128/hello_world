@@ -10,6 +10,7 @@
 どうぞよろしく．
 
 hello_world
+<<<<<<< HEAD
 =======
 面白いでしょ
 テストです
@@ -18,3 +19,7 @@ brtest
 
 私は人間です．
 >>>>>>> origin/brtest
+=======
+
+good_evening
+>>>>>>> origin/main
